@@ -35,7 +35,7 @@ MediCare is a modern, comprehensive healthcare management application designed t
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/medicare.git
+    git clone https://github.com/khushikankheria/medicare.git
     cd medicare
     ```
 
