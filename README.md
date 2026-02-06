@@ -1,4 +1,4 @@
-#MediCare - Smart Healthcare Platform
+# MediCare - Smart Healthcare Platform
 
 MediCare is a modern, comprehensive healthcare management application designed to bridge the gap between patients and doctors. Built with React and powered by Vite, it features a stunning glassmorphism UI, smooth Framer Motion animations, and a robust role-based access control system.
 
