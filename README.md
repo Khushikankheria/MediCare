@@ -84,7 +84,6 @@ The application uses a simulated role-based authentication system:
 - **Patient Login**: Accesses patient dashboard and features.
 - **Doctor Login**: Accesses doctor dashboard and management tools.
 
-*Note: Currently uses local storage for session management.*
 
 
 
