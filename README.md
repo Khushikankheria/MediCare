@@ -10,6 +10,12 @@ MediCare is a modern, comprehensive healthcare management application designed t
 - **Medicines**: Track prescriptions and receive refill reminders.
 - **Emergency**: Quick access to emergency services with location sharing.
 
+![Image](https://github.com/user-attachments/assets/0e4671d2-4dc4-4b27-96e0-c83abd8024f4)
+
+![Image](https://github.com/user-attachments/assets/5f9217c8-4129-4646-a261-989826bc07aa)
+
+![Image](https://github.com/user-attachments/assets/8492cd21-c63e-425f-8f65-1fb606b62499)
+
 ### 👨‍⚕️ Doctor Portal
 - **Dashboard**: Overview of upcoming appointments and patient statistics.
 - **Patient Management**: Access patient records and history.
