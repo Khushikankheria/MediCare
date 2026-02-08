@@ -16,6 +16,10 @@ MediCare is a modern, comprehensive healthcare management application designed t
 - **Appointments**: Manage schedule and consultation requests.
 - **Prescriptions**: Issue digital prescriptions.
 
+![Image](https://github.com/user-attachments/assets/4702851b-4536-447c-afe7-e60b3c09125e)
+
+![Image](https://github.com/user-attachments/assets/75b17381-1d60-41c6-aae1-61d32b5e0843)
+
 ### 🎨 UI/UX Design
 - **Glassmorphism**: Modern, translucent design elements using Tailwind CSS.
 - **Animations**: Fluid page transitions and interactive elements powered by Framer Motion.
